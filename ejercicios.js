@@ -1,0 +1,10 @@
+"use strict";
+exports.__esModule = true;
+var rls = require("readline-sync");
+var primerSet = rls.questionInt("resultado primer set: ");
+var segundoSet = rls.questionInt("resultado segundo set: ");
+var tercerSet = rls.questionInt("resultado tercer set: ");
+var cuartoSet = rls.questionInt("resultado cuarto set: ");
+var quintoSet = rls.questionInt("resultado quinto set: ");
+var resultado = primerSet + segundoSet + tercerSet + cuartoSet + quintoSet;
+console.log("el resultado es:", resultado);
