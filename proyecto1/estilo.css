@@ -1,0 +1,151 @@
+body{
+    background-color:dimgrey;
+    font-family:'Lucida Sans', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 8px; 
+}
+#inicio h1{ 
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    font-size: 60px;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(./imagenes/fondo4.jpeg);
+    padding: 10px;
+}
+.logo{
+    width: 150px;
+    height:150px;
+}
+.fondo{
+    margin-top: 5px;
+    padding: 5px;
+}
+.nav-link:hover{
+    color: white;
+}
+.nav-link {
+    color:black; 
+} 
+.contenedor{
+    display: flex;
+    justify-content:space-around;
+    align-items:center;
+    margin: 15px;
+    padding:10px;
+}
+.contenedor img{
+    margin: 15px;
+    padding: 10px;
+}
+.video{
+    display:flex;
+    justify-content: space-around;
+    margin: 15px;
+    padding: 10px;
+}
+.jugadores{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.golpe{
+    width: 200px;
+    height: 300px;
+}    
+.top3{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    margin: 15px;
+    padding: 10px;
+}
+span{color:black;
+     font-weight: bold;
+}
+.slide{
+    margin-top: 10px;
+}
+.slide img{
+    height: 100vh;
+}
+.tecnica{
+    margin-top: 15px;
+    padding-top: 15px;
+}
+ .boton{
+    display:flex;
+    justify-content:flex-end;
+}
+#contacto{
+    margin-top: 5px;
+}
+
+#formulario{
+    display:flex;
+    flex-direction:column;
+    align-items:flex-start;
+    font-weight: bold;
+}
+.button{
+    font-family: Arial, Helvetica, sans-serif;   
+    color:white;
+    font-weight: bold;
+    background-color:black;
+}
+.button:hover{
+    color:black;
+    font-weight: bold;
+    background:white;
+}
+.pie{
+    display: flex;
+    justify-content: space-around;
+    padding: 15px 10px 10px 5px;
+    margin-top: 10px;
+    background-color: rgb(135, 133, 133);
+}
+.foot{
+    background-color:rgb(135, 133, 133);
+    padding: 15px 20px 20px 5px;
+    margin-bottom: 60px;
+    padding-top: 3px;
+}
+.redes{
+    color:rgb(22, 21, 21);
+    text-decoration: none;
+}
+.redes:hover{
+    color:white;
+}
+
+
+    
+    
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+    
+    
+  
+  
+   
+   
